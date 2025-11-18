@@ -1,4 +1,4 @@
-ID	chrom	loc.start	loc.end	num.mark	seg.mean	Arm
+ID	chrom	loc.start	loc.end	num.mark	seg.mean
 2436A	1	200151	28021140	130	0.0534
 2436A	1	142707663	142907814	2	1.3533
 2436A	10	88303635	101719380	68	0.0066
