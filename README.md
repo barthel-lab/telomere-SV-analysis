@@ -1,6 +1,8 @@
 Notebooks
 
-This directory contains the Jupyter notebooks and scripts used to perform the telomere-SV analysis and generate data for the project figures.
+This directory contains the Jupyter notebooks and scripts used to perform the telomere-SV analysis and generate data for the project figures. All processed genomics data is hosted on Synapse:
+Project Link:https://www.synapse.org/Synapse:syn72016012/datasets/
+
 Directory Structure
 Fig 1: TCGA Cohort Overview & Telomere Metrics
 
