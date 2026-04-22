@@ -26,12 +26,10 @@ Fig 3: ecDNA & Genomic Repeats
 
 Fig 4: Telomere Associations & Genomic Instability
 
-    telomers_analysis_v2.ipynb: Primary telomere length and association analysis.
+    telomers_analysis_v2.ipynb: Primary telomere length analysis.
 
-    sample_wise_genomic_instability_assciations.ipynb: Correlations between SV burden and genomic instability.
-
-    severus/:  Telomere/SVs/CNVs association analysis.
-
+    generate_figures.py: Final figure generation (A–E) and statistical modeling.
+    
 Fig 5: Distance & Spatial Analysis
 
     severus/ & sniffles/: Spatial SV analysis
