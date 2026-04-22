@@ -4,6 +4,7 @@ This directory contains the Jupyter notebooks and scripts used to perform the te
 Project Link:https://www.synapse.org/Synapse:syn72016012/datasets/
 
 Directory Structure
+
 Fig 1: TCGA Cohort Overview & Telomere Metrics
 
     TCGA_GLASS_paired_samples_only_updated.ipynb: Comparative analysis of paired TCGA and GLASS datasets.
